@@ -1,3 +1,3 @@
 export default {
-  base: 'https://ArielAyala.github.io/game-wordle-rxjs-vite/',
+  base: '/game-wordle-rxjs-vite/',
 };
